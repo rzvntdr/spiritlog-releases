@@ -2,6 +2,8 @@
 title: SpiritLog — Privacy Policy
 ---
 
+# SpiritLog — Privacy Policy
+
 _Effective: September 29, 2026_
 
 SpiritLog is a meditation timer that keeps track of your practice. It is built
