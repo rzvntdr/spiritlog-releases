@@ -4,7 +4,7 @@ title: SpiritLog — Privacy Policy
 
 # SpiritLog — Privacy Policy
 
-_Effective: September 29, 2026_
+_Effective: October 4, 2026_
 
 SpiritLog is a meditation timer that keeps track of your practice. It is built
 by one independent developer, has no server of its own, and does not collect
@@ -15,14 +15,17 @@ remove it.
 
 Everything you create in SpiritLog is stored on your phone:
 
-- your meditation sessions (date, length, preset used),
+- your meditation sessions (date, length, preset used, the sounds heard in them),
 - your presets, sounds and reminder times,
 - your streak, your plant and your achievements,
 - your settings.
 
-The app also keeps diagnostic log files on your phone for 30 days. They
-describe what the app did (for example "session started", "backup finished")
-and never leave the phone.
+**Diagnostic logs (optional).** If you turn on Settings → Help → Diagnostic
+logs, the app keeps log files on your phone for 30 days. They describe what the
+app did and when (for example "session started", "backup finished", the name of
+the preset used). SpiritLog never sends them anywhere. If something goes wrong,
+you can tap Send logs to email them to the developer — only if you choose to.
+Turning the logs off deletes them.
 
 Uninstalling SpiritLog deletes all of this.
 
@@ -36,7 +39,7 @@ then:
   can see** (Google's "app data" folder). It cannot see, open or change any of
   your other Drive files;
 - saves a copy of your SpiritLog data there when you tap "Back up now", or
-  after each session if you turn on automatic backup. It keeps one copy per day
+  shortly after any change if you turn on automatic backup. It keeps one copy per day
   for the last 14 days, so you can restore them on a new phone.
 
 Your backups go straight from your phone to your Google Drive. The developer
